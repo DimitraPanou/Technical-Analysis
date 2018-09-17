@@ -25,16 +25,16 @@ $ pip install ta
 ```
 ## Run
 #### Bollinger Bands (BB)
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
+![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/Figure_1.png)
 
 #### Moving Average Convergence Divergence (MACD) (Trend)
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
+![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/Figure_1-1.png)
 #### Ichimoku Kinkō Hyō (Ichimoku) (Trend)
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
+![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/Figure_1-2.png)
 #### Relative Strength Index (RSI) (Momentum)
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
+![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/Figure_1-3.png)
 #### Fibonacci Retracements
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
+![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/Figure_1-4.png)
 #### Moving average crossovers
 ![alt text](https://github.com/DimitraPanou/Technical-Analysis/edit/master/doc/figure.png)
 ## Based on:
