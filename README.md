@@ -25,7 +25,7 @@ $ pip install ta
 ```
 ## Run
 #### Bollinger Bands (BB)
-![alt text](https://github.com/DimitraPanou/Technical-Analysis/tree/master/doc/Figure_1.png)
+![alt text](Technical-Analysis/doc/Figure_1.png)
 
 #### Moving Average Convergence Divergence (MACD) (Trend)
 ![alt text](https://github.com/DimitraPanou/Technical-Analysis/tree/master/doc/Figure_1-1.png)
