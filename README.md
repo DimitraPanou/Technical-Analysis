@@ -1,7 +1,7 @@
 # Technical-Analysis
 The library has implemented 6 indicators.
 
-## Technical Indicators
+### Technical Indicators
 * Bollinger Bands (BB) (Volatility)
 * Moving Average Convergence Divergence (MACD) (Trend)
 * Ichimoku Kinkō Hyō (Ichimoku) (Trend)
